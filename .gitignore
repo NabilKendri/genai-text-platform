@@ -3,3 +3,5 @@ data/raw/
 chroma_db/
 __pycache__/
 .env
+data/processed/
+personal notes.md
