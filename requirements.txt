@@ -1,0 +1,10 @@
+datasets
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langgraph
+fastapi
+uvicorn
+pytest
