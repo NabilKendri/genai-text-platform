@@ -8,4 +8,5 @@ langgraph
 fastapi
 uvicorn
 pytest
-sentence-trasnformers
+sentence-transformers
+langchain-ollama
