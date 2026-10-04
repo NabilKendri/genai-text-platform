@@ -10,3 +10,4 @@ uvicorn
 pytest
 sentence-transformers
 langchain-ollama
+httpx
